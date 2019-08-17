@@ -1,4 +1,4 @@
 # [AP CSP]({{ "/" | relative_url }})
 
-Harvard University\\
-2019–2020
+Mrs. Rugel\\based on CS50 AP\\Harvard University\\
+
