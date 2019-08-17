@@ -2,4 +2,4 @@
 
 Mrs. Rugel\\
 based on CS50 AP\\
-Harvard University\\
+at Harvard University 
